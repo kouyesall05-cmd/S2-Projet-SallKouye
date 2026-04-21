@@ -19,3 +19,4 @@ Les données seront analysées avec Excel et présentées sous forme de graphiqu
 Le rapport final sera rédigé en LaTeX et présenté devant le jury en fin de semestre.
 
 Ce README a été modifié depuis la branche modification-description.
+Relecture effectuee par emmane 25045
