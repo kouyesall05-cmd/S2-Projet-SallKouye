@@ -17,3 +17,5 @@ et de le comparer aux résultats académiques obtenus.
 Pour cela, nous avons élaboré un questionnaire distribué à 50 étudiants.
 Les données seront analysées avec Excel et présentées sous forme de graphiques.
 Le rapport final sera rédigé en LaTeX et présenté devant le jury en fin de semestre.
+
+Ce README a été modifié depuis la branche modification-description.
